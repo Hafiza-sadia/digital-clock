@@ -1,10 +1,17 @@
 # digital-clock
 
+Live Demo:  
+👉 https://hafiza-sadia.github.io/digital-clock/
 
-A simple digital clock built with HTML, CSS, and JavaScript.  
-It displays the current time and updates every second using setInterval.
+Digital Clock is a simple and responsive web-based clock built using HTML, CSS, and JavaScript.  
+It displays the current time in hours, minutes, and seconds, and updates every second.
 
-## What I Learned
-- Using JavaScript's Date object
-- DOM manipulation
-- setInterval for real-time updates
+This project demonstrates how JavaScript can be used to interact with the DOM and update content dynamically.
+
+🚀 Features
+
+- 🕑 Displays real-time hour, minute, and second  
+- ⏱️ Updates every second without page refresh  
+- 🎨 Simple and clean UI with styled layout  
+- 💻 Works on all modern web browsers  
+
